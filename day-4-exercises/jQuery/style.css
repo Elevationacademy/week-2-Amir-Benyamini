@@ -1,0 +1,28 @@
+/* .box{
+	width: 100px;
+	height: 100px;
+	background-color: blueviolet;
+} */
+
+/* .box{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background-color: purple;
+	display: inline-block;
+ } */
+
+ .box{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin: 10px;
+	display: inline-block;
+ }
+
+ 
+#event{
+	background-color: black;
+	width: 200px;
+	height: 200px;
+}
